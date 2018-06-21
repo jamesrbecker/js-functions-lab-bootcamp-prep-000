@@ -1,6 +1,6 @@
 // write your code below!
 // Functions Lab
 
-function happyHolidays("Happy Holidays!") {
+function happyHolidays() {
   return()
 }
