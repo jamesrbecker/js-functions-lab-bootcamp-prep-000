@@ -1,4 +1,6 @@
 // write your code below!
 // Functions Lab
 
-function
+function happyHolidays("Happy Holidays!") {
+  return()
+}
